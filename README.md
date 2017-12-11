@@ -1,6 +1,6 @@
 # packer-templates
 
-[![Travis](https://img.shields.io/travis/kaorimatz/packer-templates.svg?style=flat-square)](https://travis-ci.org/kaorimatz/packer-templates)
+[![Travis](https://img.shields.io/travis/kmonticolo/packer-templates.svg?style=flat-square)](https://travis-ci.org/kmonticolo/packer-templates)
 
 [Packer](https://www.packer.io/) templates for [Vagrant](https://www.vagrantup.com/) base boxes
 
